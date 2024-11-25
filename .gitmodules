@@ -1,0 +1,6 @@
+[submodule "mini_InstaPay"]
+	path = mini_InstaPay
+	url = https://github.com/mostafamagde/mini_InstaPay
+[submodule "Mini-Instapay-BE"]
+	path = Mini-Instapay-BE
+	url = https://github.com/YousefMTaha/Mini-Instapay-BE
